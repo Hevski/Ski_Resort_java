@@ -15,7 +15,7 @@ public class ApresSkiTest {
     public void before(){
         apresSki = new ApresSki("Pub Mont Fort", "Yannik");
         skier1 = new Skier("Heather", 25, "Super Advanced", 100);
-        skier1 = new Skier("Chester", 12, "Beginner", 10);
+        skier2 = new Skier("Chester", 12, "Beginner", 10);
     }
 
     @Test

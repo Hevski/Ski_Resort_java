@@ -1,5 +1,4 @@
 package Interfaces;
-
 import People.Person;
 
 public interface ISecurity {

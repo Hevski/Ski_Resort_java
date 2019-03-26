@@ -10,10 +10,10 @@ public class ApresSki extends RestArea implements ISecurity {
     }
 
     public boolean isAllowed(Person person){
-        if (person.getAge() >= 18){
-            return true;
-        } else {
+        if (person.getAge() < 18){
             return false;
+        } else {
+            return true;
         }
     }
 }
