@@ -1,3 +1,5 @@
+package RestAreas;
+
 import RestAreas.Resturant;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,7 +12,7 @@ public class ResturantTest {
 
     @Before
     public void before(){
-        resturant = new Resturant("Pit Stop", "Robert");
+        resturant = new Resturant("Pit Stop", "Robert", 6);
     }
 
     @Test
@@ -21,5 +23,10 @@ public class ResturantTest {
     @Test
     public void canGetOwner(){
         assertEquals("Robert", resturant.getOwner());
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(6, resturant.getRating());
     }
 }

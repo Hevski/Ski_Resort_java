@@ -1,3 +1,5 @@
+package PeopleTests;
+
 import People.Skier;
 import org.junit.Before;
 import org.junit.Test;

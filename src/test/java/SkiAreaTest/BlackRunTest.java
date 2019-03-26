@@ -12,7 +12,7 @@ public class BlackRunTest {
 
     @Before
     public void before(){
-        blackRun = new BlackRun("Awesome", "More advanced", "Black");
+        blackRun = new BlackRun("Awesome", "More advanced", "Black", 5);
     }
 
     @Test
@@ -28,6 +28,11 @@ public class BlackRunTest {
     @Test
     public void getColour(){
         assertEquals("Black", blackRun.getColour());
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(5, blackRun.getRating());
     }
 
 

@@ -1,20 +1,25 @@
 package RestAreas;
 
+import Interfaces.IReviewed;
 import Interfaces.ISecurity;
 import Interfaces.ITicketed;
 import People.Person;
 import People.Skier;
 
-public class KidsArea extends RestArea implements ITicketed, ISecurity {
+public class KidsArea extends RestArea implements ITicketed, ISecurity, IReviewed {
 
     private int price;
 
-    public KidsArea(String name, String owner, int price) {
-        super(name, owner);
+    public KidsArea(String name, String owner, int price, int rating) {
+        super(name, owner, rating);
         this.price = price;
     }
 
     public int getPrice() {
+        return price;
+    }
+
+    public int defaultPrice(Skier skier) {
         return price;
     }
 
@@ -25,10 +30,6 @@ public class KidsArea extends RestArea implements ITicketed, ISecurity {
             return this.price;
         }
     }
-
-//    public int defaultPrice(Person person) {
-//        return this.price;
-//    }
 
     public boolean isAllowed(Person person) {
         if (person.getAge() > 6){

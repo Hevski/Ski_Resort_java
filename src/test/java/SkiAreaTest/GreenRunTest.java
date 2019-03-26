@@ -12,7 +12,7 @@ public class GreenRunTest {
 
     @Before
     public void before(){
-        greenRun = new GreenRun("cruise", "beginner", "green");
+        greenRun = new GreenRun("cruise", "beginner", "green", 7);
     }
 
     @Test
@@ -28,5 +28,10 @@ public class GreenRunTest {
     @Test
     public void getColour(){
         assertEquals("green", greenRun.getColour());
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(7, greenRun.getRating());
     }
 }

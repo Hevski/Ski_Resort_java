@@ -12,7 +12,7 @@ public class BlueRunTest {
 
     @Before
     public void before(){
-        blueRun = new BlueRun("slidey", "intermediate", "blue");
+        blueRun = new BlueRun("slidey", "intermediate", "blue", 4);
     }
 
     @Test
@@ -28,5 +28,10 @@ public class BlueRunTest {
     @Test
     public void getColour(){
         assertEquals("blue", blueRun.getColour());
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(4, blueRun.getRating());
     }
 }

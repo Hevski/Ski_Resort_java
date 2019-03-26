@@ -12,7 +12,7 @@ public class OffPisteTest {
 
     @Before
     public void before(){
-        offPiste = new OffPiste("Stairway To Heaven", "Super Advanced", "High");
+        offPiste = new OffPiste("Stairway To Heaven", "Super Advanced", 9, "High");
     }
 
     @Test
@@ -34,6 +34,11 @@ public class OffPisteTest {
     public void canSetAvalanchRisk(){
         offPiste.setAvalanchRisk("Medium");
         assertEquals("Medium", offPiste.getAvalanchRisk());
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(9, offPiste.getRating());
     }
 
 

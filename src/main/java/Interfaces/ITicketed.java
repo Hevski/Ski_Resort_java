@@ -1,11 +1,10 @@
 package Interfaces;
 
-import People.Person;
 import People.Skier;
 
 public interface ITicketed {
 
-//    public int defaultPrice(Person person);
+    public int defaultPrice(Skier skier);
 
     public double priceFor(Skier skier);
 

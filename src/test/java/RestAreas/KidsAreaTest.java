@@ -1,3 +1,5 @@
+package RestAreas;
+
 import People.Person;
 import People.Skier;
 import RestAreas.KidsArea;
@@ -14,7 +16,7 @@ public class KidsAreaTest {
 
     @Before
     public void before(){
-        kidsArea = new KidsArea("Munchkins", "Penelope", 20);
+        kidsArea = new KidsArea("Munchkins", "Penelope", 20, 10);
     }
 
     @Test
@@ -43,4 +45,11 @@ public class KidsAreaTest {
         skier2 = new Skier("Tommy", 6, "Advanced", 80);
         assertEquals(40.00, kidsArea.priceFor(skier2),0);
     }
+
+    @Test
+    public void getRating(){
+        assertEquals(10, kidsArea.getRating());
+    }
+
+
 }

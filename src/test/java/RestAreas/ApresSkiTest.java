@@ -1,3 +1,5 @@
+package RestAreas;
+
 import People.Skier;
 import RestAreas.ApresSki;
 import org.junit.Before;
@@ -13,7 +15,7 @@ public class ApresSkiTest {
 
     @Before
     public void before(){
-        apresSki = new ApresSki("Pub Mont Fort", "Yannik");
+        apresSki = new ApresSki("Pub Mont Fort", "Yannik", 10);
         skier1 = new Skier("Heather", 25, "Super Advanced", 100);
         skier2 = new Skier("Chester", 12, "Beginner", 10);
     }
@@ -36,5 +38,10 @@ public class ApresSkiTest {
     @Test
     public void checkIfOldEnough__notOldEnough(){
         assertEquals(false, apresSki.isAllowed(skier2));
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(10, apresSki.getRating());
     }
 }

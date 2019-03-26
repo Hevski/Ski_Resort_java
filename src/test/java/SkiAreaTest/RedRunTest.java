@@ -12,7 +12,7 @@ public class RedRunTest {
 
     @Before
     public void before(){
-        redRun = new RedRun("pretty good", "advanced", "red");
+        redRun = new RedRun("pretty good", "advanced", "red", 8);
     }
 
     @Test
@@ -28,5 +28,10 @@ public class RedRunTest {
     @Test
     public void getColour(){
         assertEquals("red", redRun.getColour());
+    }
+
+    @Test
+    public void getRating(){
+        assertEquals(8, redRun.getRating());
     }
 }
