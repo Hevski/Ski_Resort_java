@@ -1,3 +1,5 @@
+package RestAreas;
+
 public abstract class RestArea {
 
     private String name;

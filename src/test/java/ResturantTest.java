@@ -1,3 +1,4 @@
+import RestAreas.Resturant;
 import org.junit.Before;
 import org.junit.Test;
 
