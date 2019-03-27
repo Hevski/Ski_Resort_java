@@ -1,5 +1,7 @@
 package People;
 
+import Interfaces.ITicketed;
+
 public abstract class Person {
 
     private String name;

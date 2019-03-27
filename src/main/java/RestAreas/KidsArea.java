@@ -23,8 +23,8 @@ public class KidsArea extends RestArea implements ITicketed, ISecurity, IReviewe
         return price;
     }
 
-    public double priceFor(Skier skier) {
-        if (!"Beginner".equals(skier.getAbility())){
+    public double priceFor(Person person) {
+        if (!"Beginner".equals(((Skier) person).getAbility())){
             return this.price * 2;
         } else {
             return this.price;

@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4201dd3b-e267-450b-9c16-ab3d99869c48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SkiResorts/SkiResort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SkiResortsTest/SkiResortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RestAreas/ApresSki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RestAreas/ApresSki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/People/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/People/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RestAreas/RestArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RestAreas/RestArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RestAreas/Resturant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RestAreas/Resturant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SkiAreas/BlackRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkiAreas/BlackRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SkiAreas/BlueRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkiAreas/BlueRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SkiAreas/GreenRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkiAreas/GreenRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SkiAreas/OffPiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkiAreas/OffPiste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SkiAreas/RedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkiAreas/RedRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SkiAreas/SkiRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SkiAreas/SkiRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApresSkiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAreas/ApresSkiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/KidsAreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAreas/KidsAreaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ResturantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAreas/ResturantTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SkiAreaTest/BlackRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkiAreaTest/BlackRunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SkiAreaTest/BlueRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkiAreaTest/BlueRunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SkiAreaTest/GreenRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkiAreaTest/GreenRunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SkiAreaTest/OffPisteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkiAreaTest/OffPisteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SkiAreaTest/RedRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SkiAreaTest/RedRunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SkierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PeopleTests/SkierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interfaces/IReviewed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interfaces/IReviewed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interfaces/ITicketed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interfaces/ITicketed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RestAreas/ApresSki.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RestAreas/ApresSki.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RestAreas/KidsArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RestAreas/KidsArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RestAreas/RestArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RestAreas/RestArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RestAreas/Resturant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RestAreas/Resturant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SkiAreas/BlackRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SkiAreas/BlackRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SkiAreas/BlueRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SkiAreas/BlueRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SkiAreas/GreenRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SkiAreas/GreenRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SkiAreas/OffPiste.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SkiAreas/OffPiste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SkiAreas/RedRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SkiAreas/RedRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SkiAreas/SkiRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SkiAreas/SkiRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ApresSkiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/KidsAreaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ResturantTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/BlackRunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/BlackRunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/BlueRunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/BlueRunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/GreenRunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/GreenRunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/OffPisteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/OffPisteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/RedRunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SkiAreaTest/RedRunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SkierTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,23 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/RestArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SkiResorts/SkiResort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,24 +35,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISecurity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SkiResortsTest/SkiResortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="525">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#300#301#0" expanded="true" />
                 <element signature="e#321#322#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/People/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -142,19 +83,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,16 +98,30 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/People/Skier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RestAreas/KidsAreaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="394">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#429#430#0" expanded="true" />
@@ -180,6 +129,15 @@
                 <element signature="e#429#430#0" expanded="true" />
                 <element signature="e#457#458#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/RestArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -206,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/SkiRunTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ISki.java" />
         <option value="$PROJECT_DIR$/src/main/java/GreenRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/BlueRun.java" />
@@ -229,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/test/java/SkierTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Skier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/People/Skier.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApresSkiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/KidsAreaTest.java" />
@@ -252,11 +208,13 @@
         <option value="$PROJECT_DIR$/src/main/java/SkiAreas/SkiRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/SkiAreas/RedRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/SkiResort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/SkiResorts/SkiResort.java" />
         <option value="$PROJECT_DIR$/src/test/java/SkiResortsTest/SkiResortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/People/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/People/Skier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java" />
       </list>
     </option>
   </component>
@@ -362,6 +320,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PeopleTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SkiResort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SkiResort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="RestAreas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -388,7 +354,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553640310560" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553677781755" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -536,21 +502,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KidsAreaTest_ifNotBeginnerDoublePrice - 2019.03.26 at 20h 57m 37s.xml">
-      <configuration name="KidsAreaTest.ifNotBeginnerDoublePrice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BlackRunTest_getRating - 2019.03.26 at 21h 17m 37s.xml">
-      <configuration name="BlackRunTest.getRating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SkiResort - 2019.03.26 at 21h 17m 54s.xml">
-      <configuration name="All in SkiResort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SkiResort - 2019.03.26 at 21h 18m 36s.xml">
-      <configuration name="All in SkiResort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SkiResort - 2019.03.26 at 21h 33m 34s.xml">
-      <configuration name="All in SkiResort" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SkiResortTest_canGetName - 2019.03.26 at 21h 49m 29s.xml">
       <configuration name="SkiResortTest.canGetName" configurationId="JUnit" />
     </history-entry>
@@ -566,6 +517,21 @@
     <history-entry file="SkiResortTest_canGetAllReviewed - 2019.03.26 at 22h 36m 21s.xml">
       <configuration name="SkiResortTest.canGetAllReviewed" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SkiResortTest_canGetName - 2019.03.26 at 22h 42m 20s.xml">
+      <configuration name="SkiResortTest.canGetName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkiResortTest_canAddReview - 2019.03.26 at 22h 42m 26s.xml">
+      <configuration name="SkiResortTest.canAddReview" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkiResortTest_canAddReview - 2019.03.26 at 22h 42m 49s.xml">
+      <configuration name="SkiResortTest.canAddReview" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SkiResortTest_canGetAllReviewed - 2019.03.26 at 22h 42m 55s.xml">
+      <configuration name="SkiResortTest.canGetAllReviewed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SkiResort - 2019.03.26 at 22h 43m 05s.xml">
+      <configuration name="All in SkiResort" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -578,13 +544,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,13 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/People/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AllAreas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -778,20 +737,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#553#554#0" expanded="true" />
             <element signature="e#606#607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RestAreas/KidsAreaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -874,59 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/RestArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/People/Skier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/ApresSki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISecurity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -952,6 +844,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SkiResortsTest/SkiResortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RestAreas/KidsAreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/ApresSki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/RestArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/People/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/People/Skier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SkiResorts/SkiResort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -968,14 +915,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SkiResortsTest/SkiResortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ITicketed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RestAreas/KidsArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
           </folding>
         </state>
       </provider>
