@@ -19,7 +19,7 @@ public class KidsArea extends RestArea implements ITicketed, ISecurity, IReviewe
         return price;
     }
 
-    public int defaultPrice(Skier skier) {
+    public int defaultPrice(Person person) {
         return price;
     }
 

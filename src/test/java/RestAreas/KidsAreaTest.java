@@ -17,6 +17,8 @@ public class KidsAreaTest {
     @Before
     public void before(){
         kidsArea = new KidsArea("Munchkins", "Penelope", 20, 10);
+        skier1 = new Skier("Heather", 25, "Super Advanced", 100);
+        skier1 = new Skier("Heather", 2, "Beginner", 10);
     }
 
     @Test
@@ -31,7 +33,7 @@ public class KidsAreaTest {
 
     @Test
     public void canGetPrice(){
-        assertEquals(20, kidsArea.getPrice());
+        assertEquals(20, kidsArea.defaultPrice(skier2));
     }
 
     @Test
